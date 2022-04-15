@@ -149,6 +149,7 @@ font-family: 'Jost', sans-serif;
 .container {
   /*  min-width: 500px; */
     margin: auto;
+    background-color: #c9c9c9;
   }
 
 footer {
