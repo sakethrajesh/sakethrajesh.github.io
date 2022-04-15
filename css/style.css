@@ -9,7 +9,7 @@ body {
 }
 
 header, footer {
-  background-color: #ffa500;
+  background-color: #89b0ae;
   text-align: left;
 /*  min-width: 500px; */
 }
@@ -43,11 +43,11 @@ h1 {
 
 h2 {
   font-family: 'Lora', serif;
-  font-size: 18px;
+  font-size: 22px;
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #ffa500;
+  color: #89b0ae;
   padding: 10px 0px 10px 10px;
 }
 
@@ -64,7 +64,7 @@ img {
 }
 
 .bio {
-color: #ffffff;
+color: #555b6e;
 font-size: 24px;
 font-family: 'Jost', sans-serif;
 }
@@ -87,7 +87,7 @@ font-family: 'Jost', sans-serif;
 }
 
 .myButton:hover {
-    background-color:#e69708;
+    background-color:#555b6e;
 }
 
 .myButton:active {
@@ -129,7 +129,7 @@ font-family: 'Jost', sans-serif;
 
 .description {
   font-family: 'Jost', sans-serif;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 300;
   line-height: 1.29;
   letter-spacing: 0.1px;
