@@ -152,8 +152,14 @@ font-family: 'Jost', sans-serif;
     background-color: #c9c9c9;
   }
 
-footer {
-  margin-top: 44px;
-}
+  footer div {
+    height: 100%;
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    display: flex;
+    align-content: center;
+    padding: 10px 20px;
+    color: rgba(255, 255, 255, 0.5);
+  }
 
 
