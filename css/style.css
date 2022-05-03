@@ -53,7 +53,8 @@ h2 {
 
 img {
   width: 100%;
-  height: auto;
+  height: 50vh;
+  object-fit: cover
 }
 
 .wrapper {
@@ -161,5 +162,22 @@ font-family: 'Jost', sans-serif;
     padding: 10px 20px;
     color: rgba(255, 255, 255, 0.5);
   }
+
+  @media all and (max-width:700px) {
+    main {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  @media all and (max-width:700px) {
+    main {
+      grid-template-columns: 1fr;
+    }
+    .description {
+      font-size: 18px;
+    }
+  }
+
+
 
 
