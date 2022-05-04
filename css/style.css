@@ -49,7 +49,8 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: -webkit-linear-gradient(to right, #4e4376, #2b5876);
+  background: linear-gradient(to right, #4e4376, #2b5876);
+  -webkit-background-clip: text;
   padding: 10px 0px 10px 10px;
 }
 
@@ -102,6 +103,7 @@ font-family: 'Jost', sans-serif;
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
   width: 100%;
   box-shadow: 0 0px 1px 0 rgb(0 0 0 / 40%);  
+  background-color: #dfdfdf;
 }
 
 .mins {
@@ -125,7 +127,7 @@ font-family: 'Jost', sans-serif;
   text-align: left;
   color: #4a4a4a;
   padding: 10px 0px 10px 10px;
-  border-top: 1px solid #4a4a4a;
+  /* border-top: 1px solid #4a4a4a; */
   padding: 0 20px 20px 20px;  
 
 }
@@ -133,7 +135,7 @@ font-family: 'Jost', sans-serif;
 .container {
   /*  min-width: 500px; */
     margin: auto;
-    background-color: #c9c9c9;
+    background-color: #bdbcbc;
   }
 
   footer div {
