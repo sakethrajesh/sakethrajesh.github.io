@@ -101,14 +101,7 @@ font-family: 'Jost', sans-serif;
 .project {
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
   width: 100%;
-}
-
-.a {
-
-}
-
-.c {
-
+  box-shadow: 0 0px 1px 0 rgb(0 0 0 / 40%);  
 }
 
 .time {
@@ -140,6 +133,8 @@ font-family: 'Jost', sans-serif;
   color: #4a4a4a;
   padding: 10px 0px 10px 10px;
   border-top: 1px solid #4a4a4a;
+  padding: 0 20px 20px 20px;  
+
 }
 
 .logo {
