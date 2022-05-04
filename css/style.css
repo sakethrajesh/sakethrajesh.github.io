@@ -104,13 +104,6 @@ font-family: 'Jost', sans-serif;
   box-shadow: 0 0px 1px 0 rgb(0 0 0 / 40%);  
 }
 
-.time {
-  padding-left: 10px;
-  padding-top: 10px;
-  width: 20px;
-  height: auto;
-}
-
 .mins {
   display: inline-block;
   font-family: 'Lora', serif;
@@ -135,13 +128,6 @@ font-family: 'Jost', sans-serif;
   border-top: 1px solid #4a4a4a;
   padding: 0 20px 20px 20px;  
 
-}
-
-.logo {
-  width: 115px;
-  height: 21.1px;
-  object-fit: contain;
-  padding: 20px;
 }
 
 .container {
