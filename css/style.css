@@ -49,7 +49,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #89b0ae;
+  color: -webkit-linear-gradient(to right, #4e4376, #2b5876);
   padding: 10px 0px 10px 10px;
 }
 
