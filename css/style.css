@@ -51,7 +51,7 @@ h2 {
   text-align: left;
   background: linear-gradient(to right, #4e4376, #2b5876);
   -webkit-background-clip: text;
-  padding: 10px 0px 10px 10px;
+  padding: 0px 0px 10px 10px;
 }
 
 img {
